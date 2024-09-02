@@ -1,20 +1,8 @@
-# UXpert | Leading UI/UX Design Studio
 
-[![UXpert Banner](https://i.postimg.cc/yNPBW7nQ/uxpert-home.png)](https://uxpert.netlify.app/)
 
-## Overview
 
-**UXpert** is a modern UI/UX design subscription service that offers scalable, adaptable, and fast turnaround design solutions tailored for startups. This landing page provides an engaging overview of our services, pricing plans, and customer testimonials to attract potential clients and showcase our value proposition. [Checkout here.](https://uxpert.netlify.app/)
+**UXpert** is a modern UI/UX design subscription service that offers scalable, adaptable, and fast turnaround design solutions tailored for startups. This landing page provides an engaging overview of our services, pricing plans, and customer testimonials to attract potential clients and showcase our value proposition.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Tech Stack
 
